@@ -1,0 +1,16 @@
+.titulos {
+    background-color: coral;
+}
+* {
+    font-style: oblique;
+}
+h1 {
+    background-color: rgb(11, 184, 83);
+} 
+.ListaP {
+    background-color: rgb(158, 204, 50);
+}
+.ListaS {
+    background-color: rgb(61, 139, 126);
+}
+
